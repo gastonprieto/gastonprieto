@@ -2,7 +2,7 @@
 
 Me gusta entender y explicar cómo funcionan los sistemas por dentro.
 
-Soy Ingeniero en Sistemas de Información (UTN FRBA) y Software Engineer en [@Parsimotion](https://github.com/Parsimotion) (Producteca). En la UTN FRBA doy clases de Diseño de Sistemas; antes di Paradigmas de Programación y Sistemas Operativos. De esas clases salieron Nodarium y las presentaciones de abajo.
+Soy Ingeniero en Sistemas de Información (UTN FRBA) y Engineering Manager en [@Parsimotion](https://github.com/Parsimotion) (Producteca). En la UTN FRBA doy clases de Diseño de Sistemas; antes di Paradigmas de Programación y Sistemas Operativos. De esas clases salieron Nodarium y las presentaciones de abajo.
 
 ## Proyectos
 
