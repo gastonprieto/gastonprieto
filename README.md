@@ -6,6 +6,8 @@ Soy Ingeniero en Sistemas de Información (UTN FRBA) y Engineering Manager en [@
 
 ## Proyectos
 
+Cosas que armo en mis ratos libres:
+
 | | Proyecto | Qué es |
 |---|---|---|
 | 🎲 | **[boardg](https://boardg.shichi.app)** | ¿A qué jugamos esta noche? Elegí un juego de mesa de tu colección en segundos: cargás jugadores y tiempo, el Oráculo elige y decide quién empieza. |
